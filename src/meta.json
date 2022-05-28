@@ -1,0 +1,35 @@
+{
+  "name": "web-sandbox",
+  "plugins": [
+    {
+      "name": "Styled Components",
+      "description": "Utilising tagged template literals (a recent addition to JavaScript) and the power of CSS, styled-components allows you to write actual CSS code to style your components.",
+      "url": "https://styled-components.com/docs"
+    },
+    {
+      "name": "lint-staged",
+      "description": " The concept of lint-staged is to run configured linter (or other) tasks on files that are staged in git.",
+      "url": "https://github.com/okonet/lint-staged"
+    },
+    {
+      "name": "Testing Library",
+      "description": "The React Testing Library is a very light-weight solution for testing React components. It provides light utility functions on top of react-dom and react-dom/test-utils.",
+      "url": "https://testing-library.com/docs/"
+    },
+    {
+      "name": "Cypress",
+      "description": "Fast, easy and reliable testing for anything that runs in a browser.",
+      "url": "https://docs.cypress.io/guides/overview/why-cypress.html"
+    },
+    {
+      "name": "Docker",
+      "description": "Docker simplifies and accelerates your workflow, while giving developers the freedom to innovate with their choice of tools, application stacks, and deployment environments for each project.",
+      "url": "https://www.docker.com/get-started"
+    },
+    {
+      "name": "no",
+      "description": "",
+      "url": ""
+    }
+  ]
+}
