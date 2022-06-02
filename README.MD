@@ -1,11 +1,14 @@
 # web-sandbox
 
-
 This project was generated with [superplate](https://github.com/pankod/superplate).
 
 ## Getting Started
 
 superplate is a Next.js all-in-one project generator. Create your project with the tools you need without spending hours on setting them up.
+
+```bash
+    npm install
+```
 
 ## Available Scripts
 
@@ -27,10 +30,15 @@ superplate is a Next.js all-in-one project generator. Create your project with t
     npm run start
 ```
 
+### Running tests
+
+```bash
+    npm run test
+```
+
 ## Learn More
 
 To learn more about **superplate**, please check out the [Documentation](https://github.com/pankod/superplate).
-
 
 ### **Styled Components**
 
@@ -38,13 +46,11 @@ Utilising tagged template literals (a recent addition to JavaScript) and the pow
 
 [Go To Documentation](https://styled-components.com/docs)
 
-
 ### **lint-staged**
 
- The concept of lint-staged is to run configured linter (or other) tasks on files that are staged in git.
+The concept of lint-staged is to run configured linter (or other) tasks on files that are staged in git.
 
 [Go To Documentation](https://github.com/okonet/lint-staged)
-
 
 ### **Testing Library**
 
@@ -52,13 +58,11 @@ The React Testing Library is a very light-weight solution for testing React comp
 
 [Go To Documentation](https://testing-library.com/docs/)
 
-
 ### **Cypress**
 
 Fast, easy and reliable testing for anything that runs in a browser.
 
 [Go To Documentation](https://docs.cypress.io/guides/overview/why-cypress.html)
-
 
 ### **Docker**
 
@@ -66,14 +70,9 @@ Docker simplifies and accelerates your workflow, while giving developers the fre
 
 [Go To Documentation](https://www.docker.com/get-started)
 
-
 ### **no**
 
-
-
 [Go To Documentation]()
-
-
 
 ## License
 
